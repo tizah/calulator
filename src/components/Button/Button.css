@@ -1,0 +1,22 @@
+.button-wrapper {
+  display: flex;
+  height: 4em;
+  justify-content: center;
+  align-items: center;
+  font-weight: ligher;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  color: #888;
+  flex: 1;
+  outline: 1px solid #888;
+  cursor: pointer;
+}
+
+.button-wrapper:hover {
+  background-color: red;
+}
+
+.operator {
+  background-color: #fe9241;
+  color: white;
+}
